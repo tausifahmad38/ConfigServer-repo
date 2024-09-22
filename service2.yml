@@ -1,2 +1,4 @@
+server:
+  port: 0
 message:
   text: "This is service1 specific message."
