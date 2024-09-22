@@ -1,1 +1,2 @@
-message: "This is service1 specific message."
+message:
+  text: "This is service1 specific message."
