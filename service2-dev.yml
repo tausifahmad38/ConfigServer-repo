@@ -1,0 +1,5 @@
+server:
+  port: 8082
+
+message:
+  text: "Hello from Service 2 in Dev!"
